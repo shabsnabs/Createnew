@@ -2,7 +2,7 @@
 import java.util.Scanner;
 class BankaccountBalance1{
 
-	static int currentbalance=10000;
+	static int currentbalance=20000;
 	public static void main(String args[])
 
 	{
