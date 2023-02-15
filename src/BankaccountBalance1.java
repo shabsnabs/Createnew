@@ -8,7 +8,7 @@ class BankaccountBalance1{
 	{
 //BankaccountBalance.bank();
 //BankaccountBalance.balancecheck();
-System.out.println("Your account balance is" +BankaccountBalance1.balancecheck());
+System.out.println("Your account balance after transaction is " +BankaccountBalance1.balancecheck());
 	}
 
 	public static void draw(){
